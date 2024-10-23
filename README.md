@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Mi primer repositorio de prueba
+Este es un proyecto de prueba
